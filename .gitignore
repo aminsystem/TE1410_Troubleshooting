@@ -23,3 +23,16 @@ _Boot/
 _CompileInfo/
 _Libraries/
 _ModuleInstall/
+Simulink2022b/TcUmRtRoot/TcRegistry.xml
+Simulink2022b/TcUmRtRoot/Target/TcSelfSigned.xml
+Simulink2022b/TcUmRtRoot/Target/TargetFeatures.xml
+Simulink2022b/TcUmRtRoot/Target/StaticRoutes.xml
+Simulink2022b/TcUmRtRoot/Target/DefaultConfig/Router.xml
+Simulink2022b/TcUmRtRoot/Target/DefaultConfig/Realtime.xml
+Simulink2022b/TcUmRtRoot/Target/DefaultConfig/DriversBase.xml
+Simulink2022b/TcUmRtRoot/Boot/Repository/Beckhoff Automation GmbH/TcDataExchangeModules/1.0.1.231/TcDataExchangeModules.tmx
+Simulink2022b/TcUmRtRoot/Boot/LoggedEvents.db
+Simulink2022b/TcUmRtRoot/Boot/CurrentConfig.xml
+Simulink2022b/_Repository/Beckhoff Automation GmbH/TcDataExchangeModules/1.0.1.231/TwinCAT RT (x86)/TcDataExchangeModules.tmx
+Simulink2022b/_Repository/Beckhoff Automation GmbH/TcDataExchangeModules/1.0.1.231/TwinCAT RT (x64)/TcDataExchangeModules.tmx
+Simulink2022b/_Repository/Beckhoff Automation GmbH/TcDataExchangeModules/1.0.1.231/TwinCAT OS (x64)/TcDataExchangeModules.tmx
